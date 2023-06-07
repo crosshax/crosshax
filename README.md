@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crosshax.
 - 👀 I’m interested in Ethical Hacking.
 - 🌱 I’m currently learning programming python.
-- 💞️ I’m looking to collaborate on Hacking softwares. 
+- 💞️ I’m looking to collaborate on Hacking softwares and Data Visualizations.  
 
 
 <!---
